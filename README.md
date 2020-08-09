@@ -11,6 +11,7 @@
 ## 第二大标题
 ###### 最小标题
 ```
+***
 ## ②文本
 > 示例  
 
@@ -28,6 +29,7 @@
 **此文本 _非常_ 重要**
 ***所有这些文本都很重要***
 ```
+***
 ## ③引用
 > 示例    
 
@@ -37,6 +39,7 @@
 ```
 > Are you OK ?
 ```
+***
 ## ④命令
 > 示例   
 
@@ -45,6 +48,7 @@
 ```
 使用 `git status` 列出尚未提交的所有新文件或已修改文件。
 ```
+***
 ## ⑤链接&图片
 > 示例
 
@@ -58,6 +62,7 @@
 
 ![image](https://github.com/WayneGreat/Markdown/blob/master/Github_Markdown.png)
 ```
+***
 ## ⑥代码
 > 示例
 
@@ -69,6 +74,7 @@ def fuc():
 > 格式
 
 ![image](https://github.com/WayneGreat/Markdown/blob/master/%E7%A4%BA%E4%BE%8B%E2%91%A5%E6%A0%BC%E5%BC%8F.png)
+***
 ## ⑦段落
 > 示例
 - George Washington
@@ -87,6 +93,7 @@ def fuc():
 2. James Monroe
 3. John Quincy Adams  
 ```
+***
 ## ⑧嵌套
 > 示例
 1. 第一个列表项
@@ -98,6 +105,7 @@ def fuc():
    -  第一个嵌套列表项
       - 第二个嵌套列表项
 ```
+***
 ## ⑨任务情况
 > 示例
 - [X] 完成更改
