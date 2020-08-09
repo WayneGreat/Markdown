@@ -48,11 +48,15 @@
 ## ⑤
 > 示例
 
-本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。  
+1.本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。
+
+2.![image](https://github.com/WayneGreat/Markdown/blob/master/%E7%A4%BA%E4%BE%8B%E2%91%A5%E6%A0%BC%E5%BC%8F.png)
 
 > 格式
 ```
 本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。
+
+![image](https://github.com/WayneGreat/Markdown/blob/master/%E7%A4%BA%E4%BE%8B%E2%91%A5%E6%A0%BC%E5%BC%8F.png)
 ```
 ## ⑥
 > 示例
@@ -63,6 +67,8 @@ def fuc():
   return s
 ```
 > 格式
+
+![image](https://github.com/WayneGreat/Markdown/blob/master/%E7%A4%BA%E4%BE%8B%E2%91%A5%E6%A0%BC%E5%BC%8F.png)
 ## ⑦
 > 示例
 - George Washington
