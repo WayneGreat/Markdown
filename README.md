@@ -1,6 +1,6 @@
 # 语法笔记
 
-## ①  
+## ①标题
 > 示例
 # 最大标题
 ## 第二大标题
@@ -11,7 +11,7 @@
 ## 第二大标题
 ###### 最小标题
 ```
-## ②
+## ②文本
 > 示例  
 
 **这是粗体文本**  
@@ -28,7 +28,7 @@
 **此文本 _非常_ 重要**
 ***所有这些文本都很重要***
 ```
-## ③
+## ③引用
 > 示例    
 
 > Are you OK ?   
@@ -37,7 +37,7 @@
 ```
 > Are you OK ?
 ```
-## ④
+## ④命令
 > 示例   
 
 使用 `git status` 列出尚未提交的所有新文件或已修改文件。
@@ -45,7 +45,7 @@
 ```
 使用 `git status` 列出尚未提交的所有新文件或已修改文件。
 ```
-## ⑤
+## ⑤链接&图片
 > 示例
 
 本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。
@@ -58,7 +58,7 @@
 
 ![image](https://github.com/WayneGreat/Markdown/blob/master/Github_Markdown.png)
 ```
-## ⑥
+## ⑥代码
 > 示例
 
 ```python
@@ -69,7 +69,7 @@ def fuc():
 > 格式
 
 ![image](https://github.com/WayneGreat/Markdown/blob/master/%E7%A4%BA%E4%BE%8B%E2%91%A5%E6%A0%BC%E5%BC%8F.png)
-## ⑦
+## ⑦段落
 > 示例
 - George Washington
 - John Adams
@@ -87,7 +87,7 @@ def fuc():
 2. James Monroe
 3. John Quincy Adams  
 ```
-## ⑧
+## ⑧嵌套
 > 示例
 1. 第一个列表项
    -  第一个嵌套列表项
@@ -98,7 +98,7 @@ def fuc():
    -  第一个嵌套列表项
       - 第二个嵌套列表项
 ```
-## ⑨
+## ⑨任务情况
 > 示例
 - [X] 完成更改
 - [ ] 推送提交到 GitHub
